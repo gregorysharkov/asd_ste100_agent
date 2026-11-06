@@ -1,0 +1,9 @@
+# Technical nouns for your project (rule 1.5, 1.8, 1.11).
+# One per line. Multi-word names are allowed and are matched as one unit.
+# Use only one name for each item (rule 1.11).
+# Lines starting with # are comments.
+#
+# Examples (delete or replace them):
+landing gear
+fuel pump
+hydraulic fluid

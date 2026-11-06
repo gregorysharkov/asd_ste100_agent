@@ -1,0 +1,12 @@
+{
+  // Let the agent run the offline STE checker without asking for approval each time.
+  // Only commands that start with "python -m ste100" (or python3 / py) are auto-approved.
+  // Check the setting name in your VS Code version: Settings > search "terminal auto approve".
+  "chat.tools.terminal.autoApprove": {
+    "/^(python3?|py) -m ste100 (check|lookup|suggest|rules)\\b/": true
+  },
+  "files.associations": {
+    "*.agent.md": "markdown",
+    "*.prompt.md": "markdown"
+  }
+}

@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# The ASD-STE100 PDF itself (download it from asd-ste100.org; do not commit)
+*.pdf
+# Agent scratch drafts
+.ste/

@@ -1,0 +1,7 @@
+# Technical verbs for your project (rule 1.12).
+# Verbs for manufacturing processes, computer processes and similar subject-field actions.
+# One base form per line. Regular inflections (-s, -ed) are accepted automatically.
+#
+# Examples (delete or replace them):
+download
+upload
